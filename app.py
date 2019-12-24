@@ -6,7 +6,7 @@ import os
 # Init app
 app = Flask(__name__)
 
-# --- base do diretório
+# --- base for directory
 basedir = os.path.abspath(os.path.dirname(__file__))
 
 # Database
